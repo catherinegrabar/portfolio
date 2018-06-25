@@ -1,0 +1,28 @@
+h1 {color: #444;}
+
+.navbar-default{
+    background-color: #fff;
+    border: 0px;
+}
+
+body{
+    background: linear-gradient(to bottom, #F4F5F5 200px,#fff 590px, #fff 100%);
+}
+
+div.intro{
+    min-height:80px;
+}
+
+div.pagetitle{
+    min-height:100px;
+}
+
+div.space{
+    height: 200px;
+}
+
+div.tile{
+    margin-bottom: 30px;
+    
+    
+}
