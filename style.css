@@ -1,4 +1,14 @@
-h1 {color: #444;}
+h1 {
+    color: #444;
+    font-family: quincy;
+    font-size: 70px;
+    padding-bottom: 50px;
+}
+
+@font-face{
+    font-family: quincy;
+    src: url(font/QuincyCF-Light.otf);
+}
 
 .navbar-default{
     background-color: #fff;
