@@ -21,6 +21,7 @@ body{
 
 div.intro{
     min-height:80px;
+    font-family: 'Avenir';
 }
 
 div.pagetitle{
@@ -28,11 +29,19 @@ div.pagetitle{
 }
 
 div.space{
-    height: 200px;
+    height: 150px;
 }
 
 div.tile{
     margin-bottom: 30px;
     
     
+}
+
+footer{
+    background-color: #e2e2e2;
+    height: 40px;
+    color: #888;
+    padding-left: 20px;
+    padding-top:10px;
 }
