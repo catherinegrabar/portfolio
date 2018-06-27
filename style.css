@@ -36,6 +36,10 @@ div.tile{
     margin-bottom: 30px;
 }
 
+img.img_tile{
+    margin-bottom:30px;
+}
+
 div.resume_body{
     font-family: 'Avenir';
     max-width: 600px;
