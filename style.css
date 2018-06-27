@@ -34,14 +34,56 @@ div.space{
 
 div.tile{
     margin-bottom: 30px;
-    
+}
+
+div.resume_body{
+    font-family: 'Avenir';
+    max-width: 600px;
+    padding-left:30px;
+    padding-right:30px;
+ 
+}
+
+div.resume_title{
+   min-height: 30px;
+   font-family: 'Avenir';
+   padding-left: 30px;
+   color: #E20031;
+   
+
+}
+
+div.resume_work_facts{
+    margin-bottom: 10px;
+    font-family: 'Avenir';
+    padding-left:30px;
+    padding-right:0px;
+}
+
+div.resume_row{
+    padding-bottom: 20px;
+}
+
+/* hover on images -- changes opacity
+.img-responsive{
+    opacity:1;
+    transition: .5s ease;
+    backface-visibility: hidden;
+}
+
+.img-responsive:hover{
+    opacity: 0.8;
     
 }
+*/
+
+
 
 footer{
     background-color: #e2e2e2;
     height: 40px;
     color: #888;
     padding-left: 20px;
-    padding-top:10px;
+    padding-top:12px;
+    font-size: 11px;
 }
