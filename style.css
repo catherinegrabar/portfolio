@@ -134,7 +134,7 @@ div.tile1:hover{
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
+  width: 800px;
   position: relative;
   margin: auto;
 }
