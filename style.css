@@ -134,9 +134,11 @@ div.tile1:hover{
 
 /* Slideshow container */
 .slideshow-container {
-  width: 800px;
+  max-width: 1000px;
+  
   position: relative;
   margin: auto;
+  
 }
 
 /* Hide the images by default */
@@ -172,7 +174,7 @@ div.tile1:hover{
 
 /* Caption text */
 .text {
-  color: #f2f2f2;
+  color: #353535;
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
