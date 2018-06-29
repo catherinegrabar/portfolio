@@ -68,6 +68,24 @@ div.resume_row{
     padding-bottom: 20px;
 }
 
+div.project_title{
+    min-height: 30px;
+    font-family: 'Avenir';
+    margin-left: 110px;
+    color: #E20031;
+    font-size: 16px;
+ }
+
+ div.project_body{
+    font-family: 'Avenir';
+    max-width: 800px;
+    margin-left:110px;
+    padding-right:30px;
+    margin-bottom: 60px;
+    font-size: 16px;
+ 
+}
+
 /* hover on images -- changes opacity
 .img-responsive{
     opacity:1;
@@ -90,4 +108,17 @@ footer{
     padding-left: 20px;
     padding-top:12px;
     font-size: 11px;
+}
+
+div.tile1{
+    background: url(images/Commutability.png) no-repeat;
+    min-height:500px;
+    
+    background-size: contain;
+    
+}
+
+div.tile1:hover{
+    background: url(images/Commutability_hover.png) no-repeat;
+    background-size: contain;
 }
