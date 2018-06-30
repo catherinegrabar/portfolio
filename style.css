@@ -80,7 +80,7 @@ div.project_title{
     font-family: 'Avenir';
     max-width: 800px;
     
-    margin-bottom: 60px;
+    
     font-size: 16px;
  
 }
@@ -141,6 +141,23 @@ div.tile1:hover{
   
 }
 
+div.inline_image{
+    
+}
+
+div.spacer{
+    height:30px;
+}
+
+
+
+
+
+
+
+
+
+/*carousel*/
 /* Hide the images by default */
 .mySlides {
     display: none;
