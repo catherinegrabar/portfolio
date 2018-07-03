@@ -5,6 +5,18 @@ h1 {
     padding-bottom: 50px;
 }
 
+h2{
+    font-family: 'Avenir';
+    color: #E20031;
+    font-size: 16px;
+}
+
+h3{
+    color: #444444
+    font-family: 'avenir';
+    font-size: 16px
+}
+
 @font-face{
     font-family: quincy;
     src: url(font/QuincyCF-Light.otf);
@@ -85,11 +97,7 @@ div.project_title{
  
 }
 
-h2{
-    font-family: 'Avenir';
-    color: #E20031;
-    font-size: 16px;
-}
+
 
 /* hover on images -- changes opacity
 .img-responsive{
@@ -134,12 +142,16 @@ div.tile1:hover{
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
+  max-width: 800px;
   
   position: relative;
   margin: auto;
   
 }
+
+.carousel-inner img {
+    margin: auto;
+  }
 
 div.inline_image{
     
@@ -147,4 +159,29 @@ div.inline_image{
 
 div.spacer{
     height:30px;
+}
+
+a.carousel-control.left{
+    background-image: none;
+}
+
+a.carousel-control.right{
+    background-image: none;
+}
+
+.carousel-indicators{
+    bottom:0px;
+}
+
+div.carousel-caption{
+    text-shadow: none;
+    font-size: 16px;
+    font-family: 'avenir';
+    
+    padding-bottom:15px;
+}
+
+div.blue_background{
+    background-color: #35B2D6;
+    
 }
