@@ -12,9 +12,9 @@ h2{
 }
 
 h3{
-    color: #444444
+    color: #444444;
     font-family: 'avenir';
-    font-size: 16px
+    font-size: 16px;
 }
 
 @font-face{
@@ -153,9 +153,7 @@ div.tile1:hover{
     margin: auto;
   }
 
-div.inline_image{
-    
-}
+
 
 div.spacer{
     height:30px;
@@ -185,3 +183,4 @@ div.blue_background{
     background-color: #35B2D6;
     
 }
+
