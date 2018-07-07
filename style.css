@@ -12,9 +12,10 @@ h2{
 }
 
 h3{
-    color: #444444;
+    color: #333;
     font-family: 'avenir';
     font-size: 16px;
+    font-weight: 400;
 }
 
 @font-face{
@@ -91,9 +92,10 @@ div.project_title{
  div.project_body{
     font-family: 'Avenir';
     max-width: 800px;
-    
-    
     font-size: 16px;
+
+   
+
  
 }
 
@@ -179,6 +181,8 @@ div.carousel-caption{
     
     padding-bottom:15px;
 }
+
+
 
 div.blue_background{
     background: -moz-linear-gradient(270deg, rgba(40,188,224,1) 0%, rgba(18,151,199,1) 100%); /* ff3.6+ */
