@@ -8,13 +8,14 @@ h1 {
 h2{
     font-family: 'Avenir';
     color: #E20031;
-    font-size: 16px;
+    font-size: 18px;
+    font-weight: 600;
 }
 
 h3{
     color: #333;
     font-family: 'avenir';
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 400;
 }
 
@@ -92,7 +93,8 @@ div.project_title{
  div.project_body{
     font-family: 'Avenir';
     max-width: 800px;
-    font-size: 16px;
+    font-size: 18px;
+    line-height: 29px;
 
    
 
@@ -163,12 +165,14 @@ div.spacer{
 
 a.carousel-control.left{
     background-image: none;
+    
 }
 
 a.onemapcarousel-control span.glyphicon{
     margin-top:-50px;
     color: #666666;
     font-size: 22px;
+
 }
 
 
