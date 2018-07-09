@@ -165,6 +165,14 @@ a.carousel-control.left{
     background-image: none;
 }
 
+a.onemapcarousel-control span.glyphicon{
+    margin-top:-50px;
+    color: #666666;
+    font-size: 22px;
+}
+
+
+
 a.carousel-control.right{
     background-image: none;
 }
@@ -172,6 +180,21 @@ a.carousel-control.right{
 .carousel-indicators{
     bottom:0px;
     
+}
+
+li.onemapindicators{
+    border: none;
+    background-color: rgb(196, 196, 196);
+}
+
+li.onemapindicators.active{
+    border: none;
+    background-color: #F8A528;
+    
+}
+
+p.onemap-carousel-text{
+    color: #666;
 }
 
 div.carousel-caption{
