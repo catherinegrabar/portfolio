@@ -205,13 +205,15 @@ div.carousel-caption{
     text-shadow: none;
     font-size: 16px;
     font-family: 'avenir';
+    bottom:5px;
     
-    padding-bottom:15px;
+    padding-bottom:0px;
 }
 
 
 
 div.blue_background{
+    padding-bottom:30px;
     background: -moz-linear-gradient(270deg, rgba(40,188,224,1) 0%, rgba(18,151,199,1) 100%); /* ff3.6+ */
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(40,188,224,1)), color-stop(100%, rgba(18,151,199,1))); /* safari4+,chrome */
     background: -webkit-linear-gradient(270deg, rgba(40,188,224,1) 0%, rgba(18,151,199,1) 100%); /* safari5.1+,chrome10+ */
@@ -222,6 +224,7 @@ div.blue_background{
 }
 
 div.green_background{
+    padding-bottom:30px;
     background: -moz-linear-gradient(270deg, rgba(0,196,147,1) 0%, rgba(8,158,128,1) 100%); /* ff3.6+ */
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(0,196,147,1)), color-stop(100%, rgba(8,158,128,1))); /* safari4+,chrome */
     background: -webkit-linear-gradient(270deg, rgba(0,196,147,1) 0%, rgba(8,158,128,1) 100%); /* safari5.1+,chrome10+ */
@@ -232,6 +235,7 @@ div.green_background{
 }
 
 div.purple_background{
+    padding-bottom:30px;
     background: -moz-linear-gradient(270deg, rgba(135,134,235,1) 0%, rgba(101,101,186,1) 100%); /* ff3.6+ */
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(135,134,235,1)), color-stop(100%, rgba(101,101,186,1))); /* safari4+,chrome */
     background: -webkit-linear-gradient(270deg, rgba(135,134,235,1) 0%, rgba(101,101,186,1) 100%); /* safari5.1+,chrome10+ */
