@@ -14,7 +14,7 @@ h2{
 
 h3{
     color: #333;
-    font-family: Avenir Arial, Helvetica, sans-serif;
+    font-family: Avenir, Arial, Helvetica, sans-serif;
     font-size: 18px;
     font-weight: 400;
 }
@@ -23,6 +23,13 @@ h3{
     font-family: quincy;
     src: url(font/QuincyCF-Light.otf);
 }
+
+@font-face{
+    font-family: avenir;
+    src: url(font/avenir-book.ttf);
+}
+
+
 
 .navbar-default{
     background-color: #fff;
