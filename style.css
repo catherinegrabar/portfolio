@@ -19,6 +19,14 @@ h3{
     font-weight: 400;
 }
 
+div.project_intro{
+    font-family: AvenirLTPro-Book, sans-serif;
+    max-width: 800px;
+    font-size: 15px;
+    line-height: 21px;
+    padding-bottom: 30px;
+}
+
 @font-face{
     font-family: quincy;
     src: url(font/QuincyCF-Light.otf);
