@@ -195,7 +195,7 @@ a.carousel-control.right{
 }
 
 .carousel-indicators{
-    bottom:0px;
+    bottom:-10px;
     
 }
 
@@ -212,6 +212,7 @@ li.onemapindicators.active{
 
 p.onemap-carousel-text{
     color: #666;
+    margin-bottom: 20px;
 }
 
 div.carousel-caption{
