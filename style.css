@@ -2,21 +2,21 @@ h1 {
     color: #444;
     font-family: quincy;
     font-size: 57px;
-    /*old font size was 70 */
+    /*old font size was 70 original padding was 50 */
     padding-bottom: 35px;
 }
 
 h2{
     font-family: AvenirLTPro-Book, sans-serif;
     color: #E20031;
-    font-size: 18px;
+    font-size: 17px;
     font-weight: 600;
 }
 
 h3{
     color: #333;
     font-family: AvenirLTPro-Book, sans-serif;
-    font-size: 18px;
+    font-size: 17px;
     font-weight: 400;
 }
 
@@ -100,14 +100,14 @@ div.project_title{
     font-family: AvenirLTPro-Book, sans-serif;
     margin-left: 110px;
     color: #E20031;
-    font-size: 16px;
+    font-size: 17px;
  }
 
  div.project_body{
     font-family: AvenirLTPro-Book, sans-serif;
     max-width: 800px;
-    font-size: 18px;
-    line-height: 29px;
+    font-size: 17px;
+    line-height: 27px;
 
    
 
