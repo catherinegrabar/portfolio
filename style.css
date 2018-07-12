@@ -232,6 +232,12 @@ div.carousel-caption{
     margin-right: auto;
 }
 
+div.projectlinks{
+    border-top: 1px solid #CCC;
+    font-size: 20px;
+    font-family: AvenirLTPro-Book, sans-serif;
+}
+
 
 
 div.blue_background{
