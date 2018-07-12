@@ -2,7 +2,8 @@ h1 {
     color: #444;
     font-family: quincy;
     font-size: 57px;
-    padding-bottom: 50px;
+    /*old font size was 70 */
+    padding-bottom: 35px;
 }
 
 h2{
