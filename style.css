@@ -238,6 +238,29 @@ div.projectlinks{
     font-family: AvenirLTPro-Book, sans-serif;
 }
 
+footer.red{
+    background-color: #F6545E;
+    color:white;
+}
+
+footer.blue{
+    background-color:#6683DE;
+    color: white;
+
+}
+
+footer.teal{
+    background-color:#0780A3;
+    color: white;
+
+}
+
+footer.yellow{
+    background-color: #F8A528;
+    color:white;
+}
+
+
 
 
 div.blue_background{
